@@ -35,6 +35,6 @@ Same as everywhere else in this org: follow the [Code of Conduct](https://github
 
 ## Licensing reminder, since it comes up a lot
 
-HotLoop is two products with two licenses. HotLoop Gateway is free for individual use, and any business use goes through [Embernet](https://embernet.ai). HotLoop Flow is Apache-2.0 and free for everyone, business use included. The Gateway is under the [HotLoop Community License](https://github.com/HotLoop-io/HotLoop-io/blob/main/LICENSE.md), and the plain-language version covering both is at [docs.hotloop.io/licensing.html](https://docs.hotloop.io/licensing.html).
+HotLoop has two licenses. HotLoop IoT, Edge, the Gateway and the Edge Relay are under the [HotLoop Community License](https://github.com/HotLoop-io/HotLoop-io/blob/main/LICENSE.md). They're free for individual use, and business use is free too, through [EmberNET](https://embernet.ai), where businesses sign up for free. Support, SLAs and warranties come from our Official Systems Integrators, [Fireball Industries](https://fireballz.ai). HotLoop Flow is Apache-2.0 and free for everyone, business use included, no EmberNET needed. The plain-language version covering all of it is at [docs.hotloop.io/licensing](https://docs.hotloop.io/licensing/).
 
 Questions that don't fit anywhere above: support@hotloop.io.
