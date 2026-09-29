@@ -14,24 +14,24 @@
 
 ## What this repo is
 
-This repo doesn't hold code. It exists to host [HotLoop's org wide Discussions board](https://github.com/orgs/HotLoop-io/discussions), which is the actual place to talk, ask questions, and hang out. Think of this README as the front door, not the house.
+This repo holds no code and no conversations. It's the signpost for [HotLoop's org wide Discussions board](https://github.com/orgs/HotLoop-io/discussions), which is where the talking actually happens. GitHub keeps Discussions at the org level, so without this repo there'd be nothing in the repo list telling you where to click. This README is the front door, not the house.
 
 ## What belongs in Discussions
 
-- **Show and tell.** You built something with HotLoop at home. Show it off.
-- **Help.** You're stuck on something and it's not clearly a bug. Ask here before you file an issue.
-- **Ideas.** You want a feature that doesn't exist yet. Pitch it.
-- **General chatter.** Automation nerd talk, hardware recommendations, whatever's relevant.
+- **Show and tell.** You wired HotLoop to something in your garage, your greenhouse or your shop. Show it off. Somebody else is about to try the same thing and would love to skip your first three mistakes.
+- **Help.** You're stuck and it's not clearly a bug. Ask here first. Half the time the answer is a setting, and the other half it turns into a proper issue with the details already sorted out.
+- **Ideas.** You want something that doesn't exist yet. Pitch it, and say what you'd do with it. "I want X" gets a shrug. "I want X because my compressor does Y at 3am" gets built.
+- **General chatter.** PLC war stories, hardware recommendations, which cheap Modbus sensor is lying to you. If it's automation nerd talk, it fits.
 
 ## What doesn't belong here
 
-- **Actual bugs.** File those as issues on the relevant repo instead, so they don't get lost in a chat thread.
-- **Business use of the Gateway.** That's [Embernet](https://embernet.ai), not us. We can't sell you anything and we're not going to pretend we can. HotLoop Flow has no such restriction, so questions about running Flow at work are welcome here.
-- **Security reports.** Read [SECURITY.md](https://github.com/HotLoop-io/.github/blob/main/SECURITY.md) and email us privately instead of posting it where anyone can see it.
+- **Actual bugs.** File them as issues on the repo they belong to, with steps to reproduce, so they don't scroll away in a chat thread. The lineup's repo is private for now, so bugs in IoT, Edge, the Gateway or the Edge Relay come here after all. Put the version and the steps in, and we'll move it where it needs to go.
+- **Business sign-up for the lineup.** Using IoT, Edge, the Gateway or the Edge Relay in a business goes through [EmberNET](https://embernet.ai): sign-up is free and business use there is free. Support contracts, SLAs and warranties are [Fireball Industries](https://fireballz.ai), our Official Systems Integrators. Questions about how any of it *works* are welcome here either way, and Flow at work needs no sign-up at all.
+- **Security reports.** Read [SECURITY.md](https://github.com/HotLoop-io/.github/blob/main/SECURITY.md) and email us privately. A public post about a hole is a how-to for whoever reads it first.
 
 ## The rules
 
-Same as everywhere else in this org: follow the [Code of Conduct](https://github.com/HotLoop-io/.github/blob/main/CODE_OF_CONDUCT.md). Be useful, be decent, and don't be the reason someone else has a bad day.
+Same as everywhere else in this org: follow the [Code of Conduct](https://github.com/HotLoop-io/.github/blob/main/CODE_OF_CONDUCT.md). Be useful, be decent, and don't be the reason somebody else has a bad day.
 
 ## Licensing reminder, since it comes up a lot
 
