@@ -26,7 +26,7 @@ This repo holds no code and no conversations. It's the signpost for [HotLoop's o
 ## What doesn't belong here
 
 - **Actual bugs.** File them as issues on the repo they belong to, with steps to reproduce, so they don't scroll away in a chat thread. The lineup's repo is private for now, so bugs in IoT, Edge, the Gateway or the Edge Relay come here after all. Put the version and the steps in, and we'll move it where it needs to go.
-- **Business sign-up for the lineup.** Using IoT, Edge, the Gateway or the Edge Relay in a business goes through [EmberNET](https://embernet.ai): sign-up is free and business use there is free. Support contracts, SLAs and warranties are [Fireball Industries](https://fireballz.ai), our Official Systems Integrators. Questions about how any of it *works* are welcome here either way, and Flow at work needs no sign-up at all.
+- **Business sign-up.** Using any HotLoop product in a business goes through [EmberNET](https://embernet.ai): sign-up is free and business use there is free. Support contracts, SLAs and warranties are [Fireball Industries](https://fireballz.ai), our Official Systems Integrators. Questions about how any of it *works* are welcome here either way.
 - **Security reports.** Read [SECURITY.md](https://github.com/HotLoop-io/.github/blob/main/SECURITY.md) and email us privately. A public post about a hole is a how-to for whoever reads it first.
 
 ## The rules
@@ -35,6 +35,6 @@ Same as everywhere else in this org: follow the [Code of Conduct](https://github
 
 ## Licensing reminder, since it comes up a lot
 
-HotLoop has two licenses. HotLoop IoT, Edge, the Gateway and the Edge Relay are under the [HotLoop Community License](https://github.com/HotLoop-io/HotLoop-io/blob/main/LICENSE.md). They're free for individual use, and business use is free too, through [EmberNET](https://embernet.ai), where businesses sign up for free. Support, SLAs and warranties come from our Official Systems Integrators, [Fireball Industries](https://fireballz.ai). HotLoop Flow is Apache-2.0 and free for everyone, business use included, no EmberNET needed. The plain-language version covering all of it is at [docs.hotloop.io/licensing](https://docs.hotloop.io/licensing/).
+Every HotLoop product is under the [HotLoop Business Source License 1.1](https://hotloop.io/license/): IoT, Edge, the Gateway, the Edge Relay, Flow (from 2.2.0 on) and Cascade. Home and lab use is free, and business use is free too, through [EmberNET](https://embernet.ai), where businesses sign up for free. Support, SLAs and warranties come from our Official Systems Integrator, [Fireball Industries](https://fireballz.ai). It's source-available, not open source, and the [license](https://hotloop.io/license/) is the legal document that wins any argument.
 
 Questions that don't fit anywhere above: support@hotloop.io.
