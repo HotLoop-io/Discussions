@@ -35,6 +35,6 @@ Same as everywhere else in this org: follow the [Code of Conduct](https://github
 
 ## Licensing reminder, since it comes up a lot
 
-Every HotLoop product is under the [HotLoop Business Source License 1.1](https://hotloop.io/license/): IoT, Edge, the Gateway, the Edge Relay, Flow (from 2.2.0 on) and Cascade. Home and lab use is free, and business use is free too, through [EmberNET](https://embernet.ai), where businesses sign up for free. Support, SLAs and warranties come from our Official Systems Integrator, [Fireball Industries](https://fireballz.ai). It's source-available, not open source, and the [license](https://hotloop.io/license/) is the legal document that wins any argument.
+Every HotLoop product is under the [HotLoop EmberNet Source License 1.0](https://hotloop.io/license/): IoT, Edge, the Gateway, the Edge Relay, Flow, Cascade, HotLoop for CODESYS and Transmitter. Home and lab use is free, and any use through [EmberNet](https://embernet.ai), business use included, is unrestricted. Businesses sign up for EmberNet for free. Support, SLAs and warranties come from our Official Systems Integrator, [Fireball Industries](https://fireballz.ai). It's source-available, not open source, and the [license](https://hotloop.io/license/) is the legal document that wins any argument.
 
 Questions that don't fit anywhere above: support@hotloop.io.
